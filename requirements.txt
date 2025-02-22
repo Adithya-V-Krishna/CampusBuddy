@@ -1,0 +1,14 @@
+langchain_community
+langchain_text_splitters
+langchain_openai
+langchain_chroma
+streamlit
+python-dotenv
+pypdf
+openai
+soundfile
+audio_recorder_streamlit
+aksharamukha
+torch 
+torchaudio
+omegaconf
