@@ -1,0 +1,30 @@
+# Core Python Libraries
+langchain-openai
+langchain-community
+langchain-chroma
+langchain-text-splitters
+openai
+python-dotenv
+streamlit
+audio-recorder-streamlit
+
+# Machine Learning and AI
+torch
+torchaudio
+transformers
+scikit-learn
+
+# Utility Libraries
+aksharamukha
+uuid
+scipy
+
+# Audio Processing
+soundfile
+ffmpeg-python
+
+# Additional Dependencies
+pydantic
+typing-extensions
+pypdf
+omegaconf
